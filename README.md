@@ -15,7 +15,7 @@ A random number generator based on the Mersenne Twister algorithm.
 
 ## Usage
 
-To use the RandomMT class:
+To use the `RandomMT` class:
 
 1. Import the `RandomMT` class from the `RandomMT.js` file.
 2. Create a new instance of the `RandomMT` class, optionally passing in a seed value.
@@ -36,4 +36,4 @@ The project includes a test suite in the `RandomMT.test.js` file, which can be r
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MIT License — see [LICENSE](LICENSE).
